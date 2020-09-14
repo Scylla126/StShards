@@ -1,7 +1,7 @@
 name: StShards
 version: 1.0
 api-version: 1.14
-author: shepherdjerred
+author: Zynbot
 main: com.shepherdjerred.stshards.Main
 
 commands:
